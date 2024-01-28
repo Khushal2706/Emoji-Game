@@ -1,3 +1,4 @@
+alert("Do you Want to start the game?")
 const emojiDetails = [
     {description: "Smiling face with sunglasses", emoji:'😎' },
     { description: "Thumbs up", emoji: "👍" },
